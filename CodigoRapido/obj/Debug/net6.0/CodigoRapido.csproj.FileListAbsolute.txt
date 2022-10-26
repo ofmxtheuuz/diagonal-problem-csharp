@@ -1,0 +1,15 @@
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\bin\Debug\net6.0\CodigoRapido.exe
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\bin\Debug\net6.0\CodigoRapido.deps.json
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\bin\Debug\net6.0\CodigoRapido.runtimeconfig.json
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\bin\Debug\net6.0\CodigoRapido.dll
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\bin\Debug\net6.0\CodigoRapido.pdb
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.csproj.AssemblyReference.cache
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.AssemblyInfoInputs.cache
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.AssemblyInfo.cs
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.dll
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\refint\CodigoRapido.dll
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.pdb
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\CodigoRapido.genruntimeconfig.cache
+C:\Users\mxthe\RiderProjects\CodigoRapido\CodigoRapido\obj\Debug\net6.0\ref\CodigoRapido.dll
